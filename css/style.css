@@ -139,7 +139,11 @@ footer div {
   .description{
     font-size: 18px;
   }
+  h1{
+    font-size: calc(1.75em + 3vw);
+  }
   h2{
+    font-size: 24px;
     padding: 10px 10px 10px 10px;
   }
 }
