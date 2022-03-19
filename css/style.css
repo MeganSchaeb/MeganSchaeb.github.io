@@ -73,6 +73,12 @@ img {
   font-family: 'Nunito Sans', sans-serif;
 }
 
+.subbio {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
 .buttonBox {
   display: flex;
   justify-content: center;
