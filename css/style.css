@@ -67,8 +67,21 @@ img {
   display: block;
 }
 
+.subpageWrapper {
+  max-width: 1150px;
+  margin: auto; padding: 50px;
+  display: block;
+  min-height: 100px;
+}
+
 .bio {
   color: #ffffff;
+  font-size: 24px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.contact {
+  color: #000000
   font-size: 24px;
   font-family: 'Nunito Sans', sans-serif;
 }
