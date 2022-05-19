@@ -96,6 +96,25 @@ img {
   font-family: 'Nunito Sans', sans-serif;
 }
 
+.aboutmegrid {
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 50px;
+}
+
+.headshot {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.links{
+  text-align: left;
+  font-size: 22px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
 .mainText {
   color: #000000
   font-size: 24px;
