@@ -220,18 +220,10 @@ a {
   color: #168aad;
 }
 
-.img1{
+.imgRightBot{
   object-position: right bottom
 }
 
-.img2{
+.imgCentBot{
   object-position: center bottom
-}
-
-.img3{
-  object-position: center bottom
-}
-
-.img4{
-  object-position: left bottom
 }
