@@ -101,7 +101,7 @@ img {
     font-size: 22px;
     font-family: 'Nunito Sans', sans-serif;
     margin-top: 50px;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 400px) ) ;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 400px)) ;
 }
 
 
